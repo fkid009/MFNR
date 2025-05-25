@@ -16,7 +16,7 @@ MFNR은 사용자의 리뷰에서 추출한 텍스트 임베딩(BERT 및 RoBERTa
 
 ---
 
-## 모델 구조 (MFNR)
+## 모델 구조
 
 - **입력**: 사용자 ID, 아이템 ID, 사용자 리뷰 임베딩(BERT + RoBERTa), 아이템 리뷰 임베딩(BERT + RoBERTa)
 - **구성**:
