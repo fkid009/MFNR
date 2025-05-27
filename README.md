@@ -27,8 +27,8 @@ MFNR은 사용자의 리뷰에서 추출한 텍스트 임베딩(BERT 및 RoBERTa
 - **Data/Subscription_Boxes.jsonl.gz**
   
   Amazon 제품 리뷰 기반의 추천용 데이터셋입니다.
+  
   포함 컬럼: reviewerID, asin, overall, reviewText
-  리뷰 기반 사용자/아이템 표현 학습에 활용됩니다.
 
 ---
 
